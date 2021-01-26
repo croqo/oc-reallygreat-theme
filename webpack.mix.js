@@ -1,4 +1,7 @@
 let mix = require('laravel-mix');
 
-mix.js('.src/app.js', 'assets').setPublicPath('assets/build');
+mix.setPublicPath('assets');
+
+mix.js('.src/app.js', 'build/index.js');
+
 mix.disableNotifications();
