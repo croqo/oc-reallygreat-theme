@@ -18,3 +18,4 @@ require:
     - VojtaSvoboda.TwigExtensions
     - Arcane.Seo
     - StudioAzura.Localize
+    - Ompmega.MixHelper
