@@ -1,0 +1,20 @@
+name: 'Really Great Bike Services'
+description: 'Copy of official starter theme for the Mall e-commerce plugin'
+author: Croqo
+homepage: 'https://rgb.services'
+code: oc-reallygreat-theme
+require:
+    - Rainlab.Translate
+    - Rainlab.Pages
+    - Rainlab.User
+    - Rainlab.Location
+    - OFFLINE.SiteSearch
+    - OFFLINE.Mall
+    - OFFLINE.OpeningHours
+    - Utopigs.Seo
+    - ChiragPatel.PhotoSwipe
+    - Octobro.API
+    - PanaKour.Translate
+    - VojtaSvoboda.TwigExtensions
+    - Arcane.Seo
+    - StudioAzura.Localize
